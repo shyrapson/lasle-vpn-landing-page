@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "gh-pages -d assets"
+    "deploy": "gh-pages -d assets"
   },
   "keywords": [],
   "author": "",
